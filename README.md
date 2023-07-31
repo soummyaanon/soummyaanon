@@ -1,4 +1,4 @@
-[![MasterHead](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Banner_Continuous.gif)](https://bio.link/soumyara)
+[![MasterHead](https://media.wired.com/photos/613f8386924283bfff0bca68/master/w_2560%2Cc_limit/WIRED_Qualcomm_header%2520gif%2520rev.gif)](https://bio.link/soumyara)
 <h1 align="center">Hi 👋, I'm Soummyaranjan</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
