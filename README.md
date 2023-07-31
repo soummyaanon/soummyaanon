@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bio.link/soumyara)
+[![MasterHead](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Banner_Continuous.gif)](https://bio.link/soumyara)
 <h1 align="center">Hi 👋, I'm Soummyaranjan</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
