@@ -5,7 +5,7 @@
   <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 15px;">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soummyaanon&label=Profile%20views&color=0e75b6&style=flat-square" alt="soummyaanon" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=soummyaanon&label=Profile%20views&color=0e75b6&style=flat-square" alt="soummyaanon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soummyaanon&margin-w=15&no-bg=true&no-frame=true" alt="soummyaanon" /></a> </p>
 
