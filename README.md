@@ -1,5 +1,5 @@
 [![MasterHead](https://media.wired.com/photos/613f8386924283bfff0bca68/master/w_2560%2Cc_limit/WIRED_Qualcomm_header%2520gif%2520rev.gif)](https://bio.link/soumyara)
-<h1 align="center">Hi 👋, I'm Soummyaranjan</h1>
+<h1 align="center">Hi 👋, I'm Soumya_ranjan</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 <p align="center">
   <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 15px;">
