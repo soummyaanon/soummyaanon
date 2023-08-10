@@ -1,4 +1,4 @@
-[![MasterHead](https://media.wired.com/photos/613f8386924283bfff0bca68/master/w_2560%2Cc_limit/WIRED_Qualcomm_header%2520gif%2520rev.gif)](https://bio.link/soumyara)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://bio.link/soumyara)
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 <p align="center">
