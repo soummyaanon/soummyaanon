@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://bio.link/soumyara)
+[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcamo.githubusercontent.com%2Fba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5%2F68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966&f=1&nofb=1&ipt=c22bdff1ebed8d5e539b0a517e3d758adfef7ffb00231eafe30ff1de8c948206&ipo=images)](https://bio.link/soumyara)
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 <p align="center">
