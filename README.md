@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 15px;">
 </p>
-[![soummyaanon's GitHub | Languages Over Time](https://stats.quine.sh/soummyaanon/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=soummyaanon)
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=soummyaanon&label=Profile%20views&color=0e75b6&style=flat-square" alt="soummyaanon" /> </p>
 
