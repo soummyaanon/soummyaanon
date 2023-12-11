@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React native, Web Development, & JavaScript<br><br>📝 I regularly write articles on Blogger<br><br>💬 Ask me about Android, Cybersecurity, and Tech-related queries<br><br>📫 How to reach me soumyaranjanpanda910@gmail.com<br><br>-My Portfolio 🚀 Portfolio<br><br>⚡ Fun fact: a Little bit funny<br>
+🌱 I’m currently learning React native, Web Development, & JavaScript<br><br>📝 I regularly write articles on Blogger<br><br>💬 Ask me about Android, Cybersecurity, and Tech-related queries<br><br>📫 How to reach me soumyaranjanpanda910@gmail.com<br><br>-My Portfolio 🚀 [Portfolio](https://soummyaanon.github.io/My-Portfolio/)⚡ Fun fact: a Little bit funny<br>
 
 
 ## 🌐 Socials:
