@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React native, Web Development, & JavaScript<br><br>📝 💬 Ask me about Android, Cybersecurity, and Tech-related queries<br><br>📫 How to reach me soumyaranjanpanda910@gmail.com<br><br>🚀My Portfolio  [Portfolio](https://my-portfolio-ruddy-two-89.vercel.app/)<br><br>
+🌱 I’m currently learning React native, Web Development, & JavaScript<br><br>📝 <br>📫 How to reach me soumyaranjanpanda910@gmail.com<br><br>🚀My Portfolio  [Portfolio](https://my-portfolio-ruddy-two-89.vercel.app/)<br><br>
 <br>🚀 Dive into the Tech Cosmos with My Latest Discoveries at My Blog [QUANTUMQUILL](https://soumyapblog.blogspot.com/) 🌌✨<br><br>
 
 ⚡ I am no longer bound by the constraints of the flesh<br>
