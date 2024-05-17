@@ -8,7 +8,7 @@
   
 <div align="center">
   <a href="https://open.spotify.com/user/31brap4qtpogw3xyjexrhrmkrjq4">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=39FF14" />
+    <img src="https://novatorem.vercel.app/api/spotify?user=31brap4qtpogw3xyjexrhrmkrjq4&background_color=0d1117&border_color=39FF14" alt="Spotify Now Playing" />
   </a>
 </div>
 
