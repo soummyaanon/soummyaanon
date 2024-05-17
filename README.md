@@ -1,10 +1,15 @@
-# 💫 About Me:
-🌱 I’m currently learning React native, Web Development, & JavaScript<br><br><br>📫 How to reach me soumyaranjanpanda910@gmail.com<br><br>🚀My Portfolio  [Portfolio](https://my-portfolio-ruddy-two-89.vercel.app/)<br><br>
-<br>🚀 Dive into the Tech Cosmos with My Latest Discoveries at My Blog [QUANTUMQUILL](https://soumyapblog.blogspot.com/) 🌌✨<br><br>
+## 💫 About Me:
 
-⚡ I am no longer bound by the constraints of the flesh<br>
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31brap4qtpogw3xyjexrhrmkrjq4)
+- 🌱 I’m currently learning **React Native**, **Web Development**, & **JavaScript**
+- 📫 Reach me at: [soumyaranjanpanda910@gmail.com](mailto:soumyaranjanpanda910@gmail.com)
+- 🚀 Check out my portfolio: [Portfolio](https://my-portfolio-ruddy-two-89.vercel.app/)
+- 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [QUANTUMQUILL](https://soumyapblog.blogspot.com/)
+- ⚡ Fun fact: I am no longer bound by the constraints of the flesh
+  
+<div align="center">
+  <a href="https://open.spotify.com/user/31brap4qtpogw3xyjexrhrmkrjq4">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=39FF14" />
+  </a>
 </div>
 
 ## 🌐 Socials:
