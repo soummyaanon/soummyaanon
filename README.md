@@ -6,10 +6,9 @@
 - 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [QUANTUMQUILL](https://soumyapblog.blogspot.com/)
 - ⚡ Fun fact: I am no longer bound by the constraints of the flesh
 
-<br/>
 <div align="center">
   <a href="https://open.spotify.com/user/31brap4qtpogw3xyjexrhrmkrjq4">
-    <img src="https://novatorem.vercel.app/api/spotify?user=31brap4qtpogw3xyjexrhrmkrjq4&background_color=0d1117&border_color=39FF14" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=874efe&bar_color_cover=false" alt="Spotify Profile with Custom Theme" />
   </a>
 </div>
 
