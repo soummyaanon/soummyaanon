@@ -8,9 +8,10 @@
   
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=00a3d7&bar_color_cover=false" alt="Spotify Profile with Natemoo-re Theme" style="border: 2px solid red;" />
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=00a3d7&bar_color_cover=false" alt="Spotify Profile with Natemoo-re Theme" style="width: 500px; height: auto; border: 2px solid white;" />
   </a>
 </div>
+
 
 
 
