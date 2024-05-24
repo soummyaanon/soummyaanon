@@ -5,12 +5,14 @@
 - 🚀 Check out my portfolio: [Portfolio](https://my-portfolio-ruddy-two-89.vercel.app/)
 - 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [QUANTUMQUILL](https://soumyapblog.blogspot.com/)
 - ⚡ Fun fact: I am no longer bound by the constraints of the flesh
-
+- 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify Profile with Compact Theme" />
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=00a3d7&bar_color_cover=false" alt="Spotify Profile with Natemoo-re Theme" />
   </a>
 </div>
+
+
 
 
 
