@@ -7,10 +7,12 @@
 - ⚡ Fun fact: I am no longer bound by the constraints of the flesh
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31brap4qtpogw3xyjexrhrmkrjq4">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=874efe&bar_color_cover=false" alt="Spotify Profile with Custom Theme" />
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify Profile with Compact Theme" />
   </a>
 </div>
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumyaranjan.therock.568089) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonymous__warior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumypanda) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kingofkings188) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Capital-Score2826) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Thesourya2000) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/soumyaranjan-panda-the-typescripter) 
