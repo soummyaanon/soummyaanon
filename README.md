@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="transform: rotate(180deg);" />
+</p>
+
 ## 💫 About Me:
 
 - 🌱 I’m currently learning **React Native**, **Web Development**, & **JavaScript**
