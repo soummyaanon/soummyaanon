@@ -4,10 +4,10 @@
 
 ## 💫 About Me:
 
-- 🌱 I’m currently learning **React Native**, **Web Development**, & **JavaScript**
-- 📫 Reach me at: [soumyaranjanpanda910@gmail.com](mailto:soumyaranjanpanda910@gmail.com)
-- 🚀 Check out my portfolio: [Portfolio](https://my-portfolio-ruddy-two-89.vercel.app/)
-- 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [QUANTUMQUILL](https://soumyapblog.blogspot.com/)
+- 🌱 I’m currently learning **React.JS**,**Next.Js**,**Web_Frontend-Developer**, & **JavaScript**
+- 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com)
+- 🚀 Check out my portfolio: [**Portfolio**](https://my-portfolio-ruddy-two-89.vercel.app/)
+- 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [**QUANTUMQUILL**](https://soumyapblog.blogspot.com/)
 - ⚡ Fun fact: I am no longer bound by the constraints of the flesh
   
 <div align="center">
