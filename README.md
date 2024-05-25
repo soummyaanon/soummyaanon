@@ -7,10 +7,11 @@
 - ⚡ Fun fact: I am no longer bound by the constraints of the flesh
   
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=00a3d7&bar_color_cover=false" alt="Spotify Profile with Natemoo-re Theme" style="width: 500px; height: auto; border: 2px solid white;" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile with Novatorem Theme" style="width: 500px; height: auto; border: 2px solid white;" />
   </a>
 </div>
+
 
 
 
