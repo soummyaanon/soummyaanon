@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="transform: rotate(180deg); animation: wave 7s infinite;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" style="transform: rotate(180deg); animation: wave 5s infinite;" />
 </p>
 
 
