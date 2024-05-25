@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" style="transform: rotate(180deg);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" style="transform: rotate(180deg); animation: wave 7s infinite;" />
 </p>
+
+
 
 
 ## 💫 About Me:
