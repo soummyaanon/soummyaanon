@@ -4,11 +4,13 @@
 
 ## 💫 About Me:
 
-- 🌱 I’m currently learning **React.JS**,**Next.Js**,**Web_Frontend-Developer**, & **JavaScript**
-- 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com)☕︎☕︎
-- 🚀 Check out my portfolio: [**Portfolio**](https://my-portfolio-ruddy-two-89.vercel.app/)☕︎☕︎
-- 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [**QUANTUMQUILL**](https://soumyapblog.blogspot.com/)☕︎☕︎
-- ⚡ Fun fact: I am no longer bound by the constraints of the flesh
+- 🌱 I’m currently learning **React.JS** 💻, **Next.Js** 🌐, **Web Frontend-Developer** 🖥️, & **JavaScript** 📜
+- 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
+- 🚀 Check out my portfolio: [**Portfolio**](https://my-portfolio-ruddy-two-89.vercel.app/) 🌟
+- 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [**QUANTUMQUILL**](https://soumyapblog.blogspot.com/) ✨
+- 🧠 "There is no spoon." - *The Matrix* 🥄
+- 💊 "You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes." - *Morpheus* 🔴🐇🕳️
+
   
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
