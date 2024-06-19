@@ -6,19 +6,20 @@
 
 
 ## 💫 About Me:
-
-- 🌱 I’m currently learning **React.JS** 💻, **Next.Js** 🌐, **Web Frontend-Developer** 🖥️, & **JavaScript** 📜
+- 🌱 I'm currently learning **React.JS** 💻, **Next.Js** 🌐, **Web Frontend-Developer** 🖥️, & **JavaScript** 📜
 - 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
 - 🚀 Check out my portfolio: [**Portfolio**](https://soumyar.vercel.app) 🌟
 - 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [**QUANTUMQUILL**](https://soumyapblog.blogspot.com/) ✨
 - 🧠 "There is no spoon." - *The Matrix* 🥄
 - 💊 "You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes." - *Morpheus* 🔴🐇🕳️
 
-  
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3a88fe&bar_color_cover=false" alt="Spotify Profile with Novatorem Theme" style="width: 500px; height: auto; border: 4px solid white;" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3a88fe&bar_color_cover=false" alt="Spotify Profile with Novatorem Theme" width="500" />
+</div>
+
+<div align = "center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+  <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="356" />
+  <!-- Add any other images or content you want to display in the grid -->
 </div>
 
 
