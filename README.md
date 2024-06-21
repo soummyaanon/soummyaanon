@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummyaanon&layout=donut&hide=css,html&hide_border=true" alt="Top Languages">
+      <img src="Blue Modern Geometric Bluebird Tech Logo](https://github.com/soummyaanon/soummyaanon/assets/91568463/e09280cc-0cf8-4fd4-a8dc-3583a3b87ec1">
     </td>
     <td align="center" width="33%">
       <img src="https://github-readme-stats.vercel.app/api?username=soummyaanon&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
