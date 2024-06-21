@@ -15,18 +15,18 @@
 
   <br>
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00a3d7&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" width="600">
-  </a>
-</div>
-
-<br>
-
-<div align = "center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
-  <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="356" />
-  <!-- Add any other images or content you want to display in the grid -->
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=00a3d7" alt="spotify-github-profile" width="400">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="400">
+    </td>
+  </tr>
+</table>
 
 
 
