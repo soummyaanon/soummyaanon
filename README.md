@@ -17,7 +17,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3a88fe&bar_color_cover=false" alt="Spotify Profile with Novatorem Theme" width="500" />
 </div>
 
-<div align = "right" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+<div align = "center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
   <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="356" />
   <!-- Add any other images or content you want to display in the grid -->
 </div>
