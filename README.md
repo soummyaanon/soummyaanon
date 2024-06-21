@@ -14,8 +14,13 @@
 - 💊 "You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes." - *Morpheus* 🔴🐇🕳️
 
   <br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00a3d7&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true)
 
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00a3d7&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" width="400">
+  </img>
+  </a>
+</div>
 <br>
 
 <div align = "center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
