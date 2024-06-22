@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://open.spotify.com/collection/tracks">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=F4268A" alt="spotify-github-profile" width="430">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=F4268A" alt="spotify-github-profile" width="490">
       </a>
     </td>
     <td align="center" width="50%">
