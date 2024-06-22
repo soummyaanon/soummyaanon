@@ -10,7 +10,7 @@
 - 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
 - 🚀 Check out my portfolio: [**Portfolio**](https://soumyar.vercel.app) 🌟
 - 🌌 Dive into the Tech Cosmos with my latest discoveries at my blog: [**QUANTUMQUILL**](https://soumyapblog.blogspot.com/) ✨
-- 🧠 "There is no spoon." - *The Matrix* 🥄
+- 🧠 "There is no spoon."
 - 💊 "You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes." - *Morpheus* 🔴🐇🕳️
 
   <br>
