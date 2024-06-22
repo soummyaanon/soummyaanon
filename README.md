@@ -19,11 +19,11 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://open.spotify.com/collection/tracks">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=F4268A" alt="spotify-github-profile" width="490">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=F4268A" alt="spotify-github-profile" width="400">
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="400">
+      <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="350">
     </td>
   </tr>
 </table>
@@ -42,9 +42,9 @@
 <br>
 <table>
   <tr>
-<td align="center" width="33%">
-      <p><strong>📊 GitHub Stats:</strong></p>
-</td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummyaanon&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    </td>
     <td align="center" width="33%">
       <img src="https://github-readme-stats.vercel.app/api?username=soummyaanon&theme=react&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
     </td>
