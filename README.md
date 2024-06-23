@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" style="transform: rotate(180deg); animation: wave 5s infinite;" />
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=450&pause=1000&color=0BF71DF9&random=false&width=435&lines=%F0%9F%99%8F++My+Self+Soumyranjan++%F0%9F%99%8F;+A+Web+Developer+(Frontend%2BBackend);+A+Tech+Enthusiast;S+I+H++Winner+2023;Open+for+Hiring+or+Freelancing" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=450&pause=1000&color=0BF71DF9&random=false&width=435&lines=%F0%9F%99%8F++My+Self+Soumyranjan++%F0%9F%99%8F;+A+Web+Developer+(Frontend%2BBackend);+A+Tech+Enthusiast;S+I+H++Winner+2023;Open+for+Hiring+or+Freelancing)](https://git.io/typing-svg)
-<br>
 - 🌱 I'm currently learning **React.JS** 💻, **Next.Js** 🌐, **Web Frontend-Developer** 🖥️, & **JavaScript** 📜
 - 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
 - 🚀 Check out my portfolio: [**Portfolio**](https://soumyar.vercel.app) 🌟
