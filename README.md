@@ -3,9 +3,10 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=450&pause=1000&color=0BF71DF9&random=false&width=435&lines=%F0%9F%99%8F++My+Self+Soumyranjan++%F0%9F%99%8F;+A+Web+Developer+(Frontend%2BBackend);+A+Tech+Enthusiast;S+I+H++Winner+2023;Open+for+Hiring+or+Freelancing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=450&size=30&duration=4990&pause=1000&color=F75400F4&random=false&width=435&lines=NAMASTE+MY+SELF+SOUMYARANJAN;FULLSTACK+WEB-DEVELOPER;S+I+H++WINNER+2023;A+TECH+ENTHUSIAST" alt="Typing SVG" />
   </a>
 </p>
+
 
 - 🌱 I'm currently learning **React.JS** 💻, **Next.Js
 - 💻 Having Experties On MERN , Web Develoepr (Frontend+Backend)
