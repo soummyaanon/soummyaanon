@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" style="transform: rotate(180deg); animation: wave 5s infinite;" />
 </p>
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=450&size=30&duration=4990&pause=1000&color=F75400F4&random=false&width=435&lines=NAMASTE+MY+SELF+SOUMYARANJAN;FULLSTACK+WEB-DEVELOPER;S+I+H++WINNER+2023;A+TECH+ENTHUSIAST" alt="Typing SVG" />
   </a>
