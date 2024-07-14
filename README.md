@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="20%">
       <a href="https://open.spotify.com/collection/tracks">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=370rc7tg2ug63psqdbagqwkky&cover_image=true&theme=default&show_offline=false&background_color=394867&interchange=true&bar_color=9BEC00" alt="spotify-github-profile" width="350">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=394867&interchange=true&bar_color=9BEC00" alt="spotify-github-profile" width="350">
       </a>
     </td>
     <td align="center" width="20%">
