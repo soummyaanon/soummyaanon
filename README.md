@@ -19,12 +19,12 @@
 
 <table>
   <tr>
-    <td align="center" width="5%">
+    <td align="center" width="60%">
       <a href="https://open.spotify.com/collection/tracks">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=394867&interchange=true&bar_color=9BEC00" alt="spotify-github-profile" width="350">
       </a>
     </td>
-    <td align="center" width="5%">
+    <td align="center" width="60%">
       <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="350">
     </td>
   </tr>
