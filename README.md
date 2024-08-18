@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="43%">
       <a href="https://open.spotify.com/collection/tracks">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=f2f3f3" alt="Spotify Profile" width="350" style="border-radius: 80%; margin-bottom: 10px;">
       </a>
