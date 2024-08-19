@@ -79,20 +79,7 @@
 
 
 
-<table>
-  <tr>
-    <td align="center" width="35%">
-      <h2> ✍️ Random Dev Quote</h2>
-        <img src =https://quotes-github-readme.vercel.app/api?type>
-      <h2>🏆 GitHub Trophies</h2>
-      <img src="https://github-profile-trophy.vercel.app/?username=soummyaanon&theme=apprentice&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-    </td>
-    <td align="center" width="350%">
-      <h3>🔝 Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=soummyaanon&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-    </td>
-  </tr>
-</table>
+
 
 
 ---
