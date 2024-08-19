@@ -66,7 +66,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummyaanon&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
     <td align="center">
-      <a href="https://git.io/awesome-stats-card">
+      <a>
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/soummyaanon?cardType=level&theme=tokyonight&preferLogin=false" alt="My Awesome Stats">
       </a>
     </td>
