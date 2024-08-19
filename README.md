@@ -17,15 +17,15 @@
 
   <br>
 
-<table>
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="43%">
+    <td align="center" width="50%" style="padding: 10px;">
       <a href="https://open.spotify.com/collection/tracks">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=f2f3f3" alt="Spotify Profile" width="350" style="border-radius: 80%; margin-bottom: 10px;">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=f2f3f3" alt="Spotify Profile" width="350" style="border-radius: 15px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       </a>
     </td>
-    <td align="center" width="43%">
-      <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="350" style="border-radius: 25px; border: 1px solid #dddddd;">
+    <td align="center" width="50%" style="padding: 10px;">
+      <img src="https://api.daily.dev/devcards/v2/Tgzfc9cVCzQTgh5HjN4GV.png?type=default&r=iuj" alt="Soumyaranjan's Dev Card" width="350" style="border-radius: 15px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </td>
   </tr>
 </table>
