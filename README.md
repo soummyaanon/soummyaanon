@@ -9,7 +9,7 @@
 
 
 - 🌱 I'm currently learning **React.JS** 💻, **Next.Js
-- 💻 Having Experties On MERN , Web Develoepr (Frontend+Backend)
+- 💻 Having Experties On MERN , Web-Develoepr (Frontend+Backend)
 - 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
 - 🚀 Check out my portfolio: [**Portfolio**](https://soumya-ranjan.tech) 🌟
 - 🌌 Check Out My Blogs Here if You are a techenthusiast : [**QUANTUMQUILL**](https://soumyapblog.blogspot.com/) ✨
