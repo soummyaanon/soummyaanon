@@ -9,7 +9,7 @@
 
 
 - 🌱 I'm currently learning **React.JS** 💻, **Next.Js
-- 🤖 Building Ai  SaaS 
+- 🤖 Building  SaaS 
 - 💻 Having Experties On MERN , Web-Develoepr (Frontend+Backend)
 - 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
 - 🚀 Check out my portfolio: [**Portfolio**](https://soumya-ranjan.tech) 🌟
