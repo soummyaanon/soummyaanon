@@ -64,20 +64,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummyaanon&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </td>
-    <td align="center">
-      <a>
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/soummyaanon?cardType=level&theme=tokyonight&preferLogin=false" alt="My Awesome Stats">
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=soummyaanon&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soummyaanon&theme=react&hide_border=true" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soummyaanon&theme=ambient_gradient&hide_border=false" alt="GitHub Streak">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummyaanon&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
   </tr>
 </table>
-
-
 
 
 
