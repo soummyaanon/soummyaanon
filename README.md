@@ -19,11 +19,12 @@
   <tr>
     <td align="center" width="50%" style="padding: 10px;">
       <a href="https://open.spotify.com/collection/tracks">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=040101&interchange=true&bar_color=e6ad0f&bar_color_cover=true" alt="Spotify Profile" width="350" style="border-radius: 15px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31brap4qtpogw3xyjexrhrmkrjq4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=e6ad0f&bar_color_cover=true" alt="Spotify Profile" width="350" style="border-radius: 15px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
