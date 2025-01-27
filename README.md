@@ -76,6 +76,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soummyaanon&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
   </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=soummyaanon&bg_color=00364a&color=ffffff&line=77bb41&point=ffecd5&area=true&hide_border=true" alt="Activity Graph">
+    </td>
+  </tr>
 </table>
 
 
