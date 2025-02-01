@@ -10,6 +10,7 @@
 - 💻 Having Experties On MERN , Web-Develoepr (Frontend+Backend)
 - 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
 - 🚀 Check out my portfolio: [**Portfolio**](https://soumya-ranjan.tech) 🌟
+- [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30864%26project%3D%26in=0)](https://codetime.dev)
 
 
 
