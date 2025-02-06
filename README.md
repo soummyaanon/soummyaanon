@@ -5,19 +5,12 @@
 </p>
 
 
-## 🚀 About Me  
-
-🌱 **Currently Learning:** React.js 💻, Next.js  
-🤖 **Building:** AarekhitAi  
-💻 **Expertise:** MERN Stack | Full-Stack Web Developer (Frontend + Backend)  
-📫 **Reach Me At:** [📧 Mail](mailto:soumyaranjanpanda910@gmail.com)  
-🚀 **Portfolio:** [🌟 Check Out My Work](https://soumya-ranjan.tech)  
-⏳ **Code Time:**  
-![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30864%26project%3D%26in=0)  
-
----
-
-🔥 Passionate about **coding**, **problem-solving**, and **building innovative solutions**. I love working with **cutting-edge technologies** and constantly improving my skills. Let's connect and create something amazing together! 🚀✨  
+- 🌱 I'm currently learning **React.JS** 💻, **Next.Js
+- 🤖 Building **AarekhitAi**
+- 💻 Having Experties On MERN , Web-Develoepr (Frontend+Backend)
+- 📫 Reach me at: [**Mail**](mailto:soumyaranjanpanda910@gmail.com) 📧
+- 🚀 Check out my portfolio: [**Portfolio**](https://soumya-ranjan.tech) 🌟
+- ![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30864%26project%3D%26in=0).
 
 
 
