@@ -10,7 +10,7 @@
 - 🌱 **Currently Learning:** React.js 💻, Next.js   <br>
 - 🎯 **Fully Cracked Developer** with complete mastery over **Cursor, OpenAI, and multiple AI use cases**    <br>
 - 🤖 **Building:** AarekhitAi    <br>
-- 💻 **Expertise:** MERN Stack | Full-Stack Web Developer (Frontend + Backend)    <br>
+- 💻 **Expertise:** MERN Stack | Full-Stack Web Developer     <br>
 - 📫 **Reach Me At:** [📧 Mail](mailto:soumyaranjanpanda910@gmail.com)    <br>
 - 🚀 **Check Out My Work:** [🌟 Portfolio](https://soumya-ranjan.tech)
 -  ![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30864%26project%3D%26in=0)   <br>
