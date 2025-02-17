@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-- 🌱 **Currently Learning:** React.js 💻, Next.js   <br>
+- 🌱 **Currently Learning:** React.js 💻, Next.js Tailwind Css   <br>
 - 🎯 **Fully Cracked Developer** with complete mastery over **Cursor, OpenAI, and multiple AI use cases**    <br>
 - 🤖 **Building:** AarekhitAi    <br>
 - 💻 **Expertise:** MERN Stack | Full-Stack Web Developer     <br>
