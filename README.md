@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-- 🎯 **Wants To Becaome a Cracked Developer** with complete mastery over **Cursor, OpenAI, and multiple AI use cases**    <br>
+- 🎯 **Wants To Become a Cracked Developer** with complete mastery over **Cursor, OpenAI, and multiple AI use cases**    <br>
 - 🤖 **Building:** AarekhitAi    <br>
 - 💻 **Expertise:** MERN Stack | Full-Stack Web Developer     <br>
 - 📫 **Reach Me At:** [📧 Mail](mailto:soumyaranjanpanda910@gmail.com)    <br>
