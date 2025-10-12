@@ -40,21 +40,22 @@
 
 
 
-
 ## 💻 Tech Stack  
 
 | **Category**               | **Tools & Technologies** |
 |---------------------------|--------------------------|
 | **Frontend**              | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) |
-| **State Management & Routing** | ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) |
+| **State Management & Data** | ![Zustand](https://img.shields.io/badge/Zustand-%2312100E.svg?style=plastic&logo=zustand&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=plastic&logo=react-query&logoColor=white) |
 | **UI Libraries**          | ![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=plastic&logo=shadcn&logoColor=white) ![NextUI](https://img.shields.io/badge/NextUI-%23007ACC.svg?style=plastic&logo=nextui&logoColor=white) ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-%23FF7F50.svg?style=plastic) ![Radix UI](https://img.shields.io/badge/Radix_UI-%234CAF50.svg?style=plastic) |
-| **Backend**               | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) |
-| **Database**              | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%233d8bfd.svg?style=plastic&logo=appwrite&logoColor=white) |
-| **Build Tools & Frameworks** | ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) |
-| **Development Tools**     | ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white) |
+| **Backend & API**         | ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-%2339875D.svg?style=plastic&logo=trpc&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white) |
+| **Database**              | ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=plastic&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-%23000000.svg?style=plastic&logo=drizzle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-%2300E599.svg?style=plastic&logo=neon&logoColor=white) ![Planetscale](https://img.shields.io/badge/Planetscale-%23000000.svg?style=plastic&logo=planetscale&logoColor=white) |
+| **Build Tools & Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![TurboRepo](https://img.shields.io/badge/TurboRepo-%23000000.svg?style=plastic&logo=turbo&logoColor=yellow) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) |
+| **Development Tools**     | ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23181717.svg?style=plastic&logo=github&logoColor=white) |
 | **AI & Assistants**       | ![OpenAI](https://img.shields.io/badge/OpenAI-%23424242.svg?style=plastic&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-%231B1F23.svg?style=plastic&logo=anthropic&logoColor=white) |
-| **Deployment**            | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) |
+| **Agent Tech Stack**      | ![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI_Agent_SDK-%23424242.svg?style=plastic&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-%231B1F23.svg?style=plastic&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=plastic&logo=python&logoColor=yellow) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=plastic&logo=python&logoColor=yellow) |
+| **Deployment**            | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) |
 | **Languages**             | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) |
+
 
 
 
