@@ -7,13 +7,9 @@
 
 ## 🚀 About Me  
 
-- 🎯 **Wants To Become a Cracked Developer** with complete mastery over **Cursor, OpenAI, and multiple AI use cases**    <br>
-- 🤖 **Building:** AarekhitAi    <br>
-- 💻 **Expertise:** AI Engnearing | Full-Stack Web Development     <br>
-- 📫 **Reach Me At:** [📧 Mail](mailto:soumyaranjanpanda910@gmail.com)    <br>
-- [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30864)](https://codetime.dev)  <br>
-  
-<br>
+👋 Hi, I'm **Soumyaranjan** — a **Software Engineer** passionate about building **AI-driven applications**.  
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30864)](https://codetime.dev)
 
 ---
 
