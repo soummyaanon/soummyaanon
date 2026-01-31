@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" style="transform: rotate(180deg); animation: wave 5s infinite;" />
+  
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92f9b0bd-6d86-4a69-869c-a8f1e2e9bf61" alt="soummyaanon-space-shooter" />
 </p>
 
 
