@@ -4,9 +4,9 @@
 </p>
 
 
-## 🚀 About Me  
 
-👋 Hi, I'm **Soumyaranjan** — a **Software Engineer** passionate about building **AI-driven applications**.  
+
+**I love how tech is evolving — and I want to be a part of it.**
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30864)](https://codetime.dev)
 
