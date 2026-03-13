@@ -12,10 +12,6 @@
 
 ---
 
-
-
-
----
 ## 🌐 Socials  
 
 | Facebook | Instagram | LinkedIn | Pinterest | Reddit | X (Twitter) | CodePen |
