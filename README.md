@@ -8,13 +8,26 @@
 
 ## 🌐 Socials
 
-| Facebook | Instagram | LinkedIn | Pinterest | Reddit | X (Twitter) | CodePen |
-|----------|----------|----------|-----------|--------|-------------|---------|
-| [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soumyaranjan.therock.568089) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonymous__warior) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyapanda12/) | [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kingofkings188) | [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Capital-Score2826) | [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/@Thesourya2000) | [![Codepen](https://img.shields.io/badge/Codepen-%231DA1F2.svg?logo=Codepen&logoColor=white)](https://codepen.io/soumyaranjan-panda-the-typescripter) |
+<p align="center">
+<table>
+  <tr>
+    <td align="center"><a href="https://facebook.com/soumyaranjan.therock.568089"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a></td>
+    <td align="center"><a href="https://instagram.com/anonymous__warior"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soumyapanda12/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+    <td align="center"><a href="https://pinterest.com/kingofkings188"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/></a></td>
+    <td align="center"><a href="https://reddit.com/user/Capital-Score2826"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a></td>
+    <td align="center"><a href="https://twitter.com/@Thesourya2000"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white" alt="X"/></a></td>
+    <td align="center"><a href="https://codepen.io/soumyaranjan-panda-the-typescripter"><img src="https://img.shields.io/badge/Codepen-%231DA1F2.svg?logo=Codepen&logoColor=white" alt="Codepen"/></a></td>
+  </tr>
+</table>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=soummyaanon&icon=9&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=soummyaanon&icon=9&color=0"/></a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
