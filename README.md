@@ -16,5 +16,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=soummyaanon&icon=9&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=soummyaanon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
